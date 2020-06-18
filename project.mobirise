@@ -61,7 +61,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 117,
+    "uniqCompNum": 118,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "cssOptimize": true,
@@ -1535,7 +1535,7 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-37"
+          "_anchor": "instagram-feed-block-39"
         },
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
